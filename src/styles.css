@@ -88,3 +88,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.restartButton {
+  border-radius: 6rem;
+  background-color: white;
+}
